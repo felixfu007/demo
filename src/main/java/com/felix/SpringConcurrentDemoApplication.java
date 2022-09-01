@@ -1,4 +1,4 @@
-package com.bill;
+package com.felix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

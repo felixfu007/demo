@@ -1,4 +1,4 @@
-package com.bill.demo;
+package com.felix.demo;
 
 public class Fibonacci {
     public int fib(int i) {

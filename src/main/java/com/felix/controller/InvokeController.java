@@ -17,9 +17,6 @@ public class InvokeController {
     private final InvokeTestService invokeTestService;
 
     /**
-     *  程式要執行多工要覆蓋run()
-     *  Bad!!->類別不能在使用繼承
-     *  工人"各"搬50塊(產生多工問題)!!!
      * @throws InvocationTargetException 
      * @throws IllegalArgumentException 
      * @throws IllegalAccessException 
